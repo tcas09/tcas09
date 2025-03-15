@@ -5,7 +5,20 @@ Olá! Sou uma estudante de **Tecnologia da Informação** e estou iniciando minh
 
 ## Projetos
 
-### 📂 Não há projetos ainda.
+### Projetos em Python
+
+#### 📂 **Calculadora Simples**
+Uma calculadora básica que realiza operações aritméticas simples como adição, subtração, multiplicação e divisão.
+
+- **Tecnologias utilizadas:** Python
+- **Funcionalidades:**
+    - Adição de dois números.
+    - Subtração de dois números.
+    - Multiplicação de dois números.
+    - Divisão de dois números, com verificação de divisão por zero.
+- **Objetivo do Projeto:** Criar uma aplicação simples em Python para entender como realizar operações aritméticas básicas e interagir com o usuário através do terminal.
+  
+  A calculadora recebe entradas do usuário para realizar os cálculos e exibe o resultado na tela. A implementação ajuda a praticar a estrutura condicional, variáveis e entradas do usuário.
 
 ## Habilidades
 Atualmente, estou focada em aprender as seguintes habilidades:
